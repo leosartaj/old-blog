@@ -1,3 +1,7 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
@@ -5,26 +9,20 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Sartaj Singh
-tagline:             Some line
-url:                 http://github.com/leosartaj
-paginate:            1
-baseurl:             ""
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
+title:               "Brian's Blog"
+tagline:             "A place for me to write things down."
+description:         'Brian Pasquini's place on the web to wax about technology.'
+url:                 http://brianpasquini.com
+baseurl:             /
+paginate:            5
 
 # About/contact
 author:
-  name:              Sartaj Singh
-  url:               https://github.com/leosartaj
-  email:             singhsartaj94@gmail.com
+  name:              Brian Pasquini
+  url:               https://twitter.com/bpasquini
+  email:             brian.pasquini@gmail.com
+  github:            bpasquini
+  twitter:           bpasquini
 
 # Custom vars
 version:             1.0.0
-github:
-  repo:              https://github.com/leosartaj/leosartaj.github.io
