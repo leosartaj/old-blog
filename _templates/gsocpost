@@ -1,0 +1,9 @@
+---
+layout: {{ layout }}
+title: "{{ title }}"
+date: {{ date }}
+tags:
+  - Open Source
+  - GSoC
+  - SymPy
+---
