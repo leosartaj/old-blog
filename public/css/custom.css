@@ -2,12 +2,13 @@
 
 /* Keep them close */
 .index-post {
-  margin-bottom: 1.5em;
+  margin-bottom: 2.5em;
 }
 
 .read-more {
-  text-decoration: underline;
-  float: right
+  margin-top: -0.5rem;
+  float: right;
+  font-size: 13px;
 }
 
 .post-date {
