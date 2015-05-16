@@ -1,3 +1,7 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
@@ -10,7 +14,7 @@ tagline:             ': Open Source Enthusiast'
 description:         'Programming . Mathematics . Awesomeness'
 url:                 https://leosartaj.github.io
 baseurl:             ''
-paginate:            5
+paginate:            1
 
 # About
 author:
@@ -25,4 +29,6 @@ contact:
   quora:             http://quora.com/Sartaj-Singh-27
   mail:              mailto:singhsartaj94@gmail.com
 
+
+excerpt_separator:   <!-- excerpt -->
 timezone: Asia/Varanasi

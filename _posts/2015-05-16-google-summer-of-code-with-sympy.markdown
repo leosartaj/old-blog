@@ -6,11 +6,14 @@ tags:
   - OpenSource
   - GSoC
   - SymPy
+permalink: /Google-Summer-Of-Code-with-SymPy
 ---
 
 ![GSoC](/assets/gsoc/gsoc2015.png)
 
 Much awaited results of [Google Summer Of Code 2015](http://www.google-melange.com/gsoc/projects/list/google/gsoc2015) are finally out. My project **Improving series package and limits in SymPy** has been selected! I will be working with [SymPy](http://www.sympy.org/en/index.html) under [Python Software Foundation](http://www.python.org/psf).
+
+<!-- excerpt -->
 
 ### A little about GSoC
 
@@ -25,8 +28,7 @@ Much awaited results of [Google Summer Of Code 2015](http://www.google-melange.c
 My Project will be mentored by [Jim Crist](http://github.com/jcrist), [Sean Vig](https://github.com/flacjacket) and [Ondřej Čertík](https://github.com/certik).
 
 The project aims at improving the series infrastructure and limits in SymPy. Sympy currently lacks a proper structure for handling and
-manipulating series. All the series related functionality is defined
-as methods in *Expr* class. I plan to give the series package a
+manipulating series. I plan to give the series package a
 concrete structure for future development and improvement. I plan to
 do the following over the summer.
 

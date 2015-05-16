@@ -6,4 +6,5 @@ tags:
   - OpenSource
   - GSoC
   - SymPy
+permalink: /{{ title }}
 ---
