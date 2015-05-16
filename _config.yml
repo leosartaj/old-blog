@@ -6,19 +6,23 @@ relative_permalinks: true
 
 # Setup
 title:               Sartaj Singh
-tagline:             'TODO'
-description:         'TODO'
+tagline:             ': Open Source Enthusiast'
+description:         'Programming . Mathematics . Awesomeness'
 url:                 https://leosartaj.github.io
 baseurl:             ''
 paginate:            5
 
-# About/contact
+# About
 author:
   name:              Sartaj Singh
   url:               https://github.com/leosartaj
   email:             singhsartaj94@gmail.com
 
-# Custom vars
-version:             1.0.0
+# Contact
+contact:
+  github:            http://github.com/leosartaj
+  twitter:           http://twitter.com/leosartaj03
+  quora:             http://quora.com/Sartaj-Singh-27
+  mail:              mailto:singhsartaj94@gmail.com
 
 timezone: Asia/Varanasi
