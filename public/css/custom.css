@@ -15,3 +15,8 @@
   margin-bottom: 0.3rem;
   font-size: 15px;
 }
+
+a.int-links {
+  text-decoration: None;
+  color: #313131;
+}

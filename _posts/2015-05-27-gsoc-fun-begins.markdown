@@ -11,7 +11,7 @@ permalink: /GSoC-Fun-Begins
 
 The community bonding period ended a few days ago (25th May). Community bonding period provided me with ample time to review my [proposal](https://github.com/sympy/sympy/wiki/GSoC-2015-Application-Sartaj-Singh:-Improving-the-series-package-and-limits-in-SymPy), which I did.
 I had a meeting with my mentors [Jim Crist](http://github.com/jcrist) and [Sean Vig](http://github.com/flacjacket) on 13th May on
-sympy's [gitter](http://gitter.im/sympy/sympy) channel. We discussed on the first part of my proposal i.e. [sequences](https://github.com/sympy/sympy/wiki/GSoC-2015-Application-Sartaj-Singh:-Improving-the-series-package-and-limits-in-SymPy).
+sympy's [gitter](http://gitter.im/sympy/sympy) channel. We discussed on the first part of my proposal i.e. [sequences](https://github.com/sympy/sympy/wiki/GSoC-2015-Application-Sartaj-Singh:-Improving-the-series-package-and-limits-in-SymPy#coding-period).
 
 <!-- excerpt -->
 We decided that there will be a base class, from which every sequence will inherit (Periodical, functional and formula based sequences).
@@ -24,7 +24,7 @@ I had made two commits by then, implementing `SeqBase` class and `EmptySequence`
 
 In my timeline, I reserved first two weeks for implementing sequences and operations on them.
 
-Main Tasks for this and the upcoming week:
+<a name="tasks" class="int-links">Main Tasks for this and the upcoming week:</a>
 
 * `SeqBase` Class
 * `EmptySequence`
