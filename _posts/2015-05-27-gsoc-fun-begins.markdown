@@ -6,7 +6,7 @@ tags:
   - OpenSource
   - GSoC
   - SymPy
-permalink: /GSoC-Fun-Begins
+permalink: /gsoc-fun-begins
 ---
 
 The community bonding period ended a few days ago (25th May). Community bonding period provided me with ample time to review my [proposal](https://github.com/sympy/sympy/wiki/GSoC-2015-Application-Sartaj-Singh:-Improving-the-series-package-and-limits-in-SymPy), which I did.

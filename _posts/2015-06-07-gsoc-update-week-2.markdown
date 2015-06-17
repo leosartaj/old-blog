@@ -6,7 +6,7 @@ tags:
   - OpenSource
   - GSoC
   - SymPy
-permalink: /GSoC-Update-Week-2
+permalink: /gsoc-update-week-2
 ---
 
 Time flies fast. Two weeks have already passed since I started working on the project. Here's what I have been upto.

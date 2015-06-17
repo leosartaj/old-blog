@@ -6,7 +6,7 @@ tags:
   - OpenSource
   - GSoC
   - SymPy
-permalink: /GSoC-Update-Week-1
+permalink: /gsoc-update-week-1
 ---
 
 So, the first week of the `coding` period is over and  I successfully wrote a bunch of lines this week.
