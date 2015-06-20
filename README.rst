@@ -1,7 +1,7 @@
 My Blog
 ********
 
-http://leosartaj.github.io
+http://sartajsingh.me
 
 This repository powers my blog.
 
