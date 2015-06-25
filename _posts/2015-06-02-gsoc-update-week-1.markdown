@@ -14,7 +14,7 @@ So, the first week of the `coding` period is over and  I successfully wrote a bu
 ### Week 1:
 
 In my proposal I had planned to implement sequences and binary operations like addtion, multiplication in the first two weeks of the coding period.
-I was able to complete the main [tasks](/GSoC-Fun-Begins/#tasks) in this week.
+I was able to complete the main [tasks](/gsoc-fun-begins/#tasks) in this week.
 
 <!-- excerpt -->
 I have made a [PR(#9435)](http://github.com/sympy/sympy/pull/9435) which is now under review by my mentors [Jim Crist](http://github.com/jcrist) and [Sean Vig](http://github.com/flacjacket).

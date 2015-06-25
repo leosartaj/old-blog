@@ -31,7 +31,7 @@ Formal Power series of a functions is of the form \\( f(x) = \sum\limits\_{k=0}^
 
 ### Algorithm for computing FPS of a function
 
-1. If \\( f(x) \\) or \\( f^k(x) \\) is a rational function. Apply rational algorithm.
+1. If \\( f(x) \\) or \\( f^k(x) \\) is a rational function. Apply <a name='rational' class='int-links'>rational algorithm</a>.
     
     1. Calculate a complex [PFD](http://en.wikipedia.org/wiki/Partial_fraction_decomposition) of f
 
