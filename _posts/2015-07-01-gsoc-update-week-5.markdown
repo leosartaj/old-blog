@@ -9,6 +9,10 @@ tags:
 permalink: /gsoc-update-week-5
 ---
 
+Midterm evaluation has started and is scheduled to end by 3rd of July.
+So, far GSoC has been a very good experience and hopefully the next half
+would even be better.
+
 Yesterday, I had a meeting with my mentor [@jcrist](http://github.com/jcrist). It was decided
 that we will meet every Tuesday on [gitter](http://gitter.im/sympy/sympy) at 7:30 P.M IST. We discussed
 my next steps in implementing the algorithm and completing ``FormalPowerSeries``.
