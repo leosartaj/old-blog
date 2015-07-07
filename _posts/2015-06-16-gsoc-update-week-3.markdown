@@ -53,7 +53,7 @@ Formal Power series of a functions is of the form \\( f(x) = \sum\limits\_{k=0}^
 
     4. If (3) is unsuccessful, increase N by 1 and go back to (3), until N = \\( N\_{max} \\)
 
-3. Find the corresponding RE of the form
+3. Find the corresponding <a name='RE' class='int-links'>RE</a> of the form
 
     $$ a\_{n + 1} = \sum\limits\_{k=0}^M r\_{k} a\_{n-k} $$
     

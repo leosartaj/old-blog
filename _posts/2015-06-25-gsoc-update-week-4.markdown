@@ -9,7 +9,7 @@ tags:
 permalink: /gsoc-update-week-4
 ---
 
-This week was mostly spent on completing the [rational algorithm](gsoc-update-week-3/#rational) for computing
+This week was mostly spent on completing the [rational algorithm](/gsoc-update-week-3/#rational) for computing
 Formal Power Series of a function. It took some time, mainly due to testing.
 
 Rational algorithm is now mostly complete and I have opened 
