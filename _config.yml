@@ -4,15 +4,13 @@ highlighter:      pygments
 
 # Permalinks
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:               Sartaj Singh
 tagline:             ': Open Source Enthusiast'
 description:         'Programming . Mathematics . Awesomeness'
-url:                 https://sartajsingh.me
+url:                 https://sartajsingh.dev
 baseurl:             ''
 paginate:            1
 
